@@ -4,13 +4,16 @@ import { picture} from '../assets';
 import { Link } from 'react-router-dom'; 
 import SectionWrapper from './SectionWrapper';
 // Add your own images by putting them in the assets folder and import them.
-const images = [
- "src/assets/fhia1.jpg",
- "src/assets/fhia2.jpg",
- "src/assets/fhia3.jpg",
- "src/assets/fhia4.jpg",
- "src/assets/fhia5.jpg",
-];
+
+// Import gambar satu per satu
+import fhia1 from '../assets/fhia1.jpg';
+import fhia2 from '../assets/fhia2.jpg';
+import fhia3 from '../assets/fhia3.jpg';
+import fhia4 from '../assets/fhia4.jpg';
+import fhia5 from '../assets/fhia5.jpg';
+
+const images = [fhia1, fhia2, fhia3, fhia4, fhia5];
+
 function Picture() {
   const [loadedImages, setLoadedImages] = useState(0);
 
