@@ -38,14 +38,13 @@ function Card() {
           <div className="wrap">
             <p>Selamat ulang tahun ya, maaf baru bisa ngucapin sekarang :(</p>
             <p>
-              Oh iya, aku ingat dulu kamu ingin menjadi pramugari yang baik dan cantik ya kan? ku harap itu tercapai ya. Tapi, apapun keinginan mu aku akan mendukung dan mendoakan. Kecuali jadi istri cha eun woo. Dia dah tunangan awowkwok :P
+              Oh iya, aku masih ingat dulu kamu pernah cerita soal impian jadi pramugari yang baik dan cantik, ya kan? Aku harap kamu terus berjalan ke arah itu, atau ke mana pun hatimu ingin pergi—aku akan tetap mendukung dan mendoakan. Kecuali jadi istri Cha Eun Woo... dia udah tunangan awokwok :P
             </p>
             <p>
-             Aku cuma ingin kamu tau bahwa semenyakitkan apapun
-             yang diberi mereka ke kamu, anggapan apapun yang mereka beri ke kamu. Disini masih ada 1 orang yang menyukaimu bahkan dari 6 tahun lalu, Dan akan terus begitu
+             Aku cuma ingin kamu tau, sesakit apa pun perjalanan yang kamu lewati, sekeras apa pun penilaian orang ke kamu, ada satu orang yang diam-diam menyaksikan semua itu. Yang menyukaimu bahkan setelah enam tahun terlewati, dan mungkin akan terus begitu.
             </p>
             <p>
-              You always be my favorite
+              You always be my favorite girl :)
             </p>
             <p className="signed"></p>
           </div>
